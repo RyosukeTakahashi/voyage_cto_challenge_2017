@@ -1,0 +1,39 @@
+{
+ "engineers": [
+  { "id": "a", "team": "pex", "chottodekiru": [ "ruby" ] },
+  { "id": "b", "team": "pex", "chottodekiru": [ "ruby", "javascript" ] },
+  { "id": "c", "team": "pex", "chottodekiru": [ "ruby", "javascript" ] },
+  { "id": "d", "team": "pex", "chottodekiru": [ "ruby", "javascript" ] },
+  { "id": "e", "team": "pex", "chottodekiru": [ "php", "ruby" ] },
+  { "id": "f", "team": "pex", "chottodekiru": [ "php", "ruby" ] },
+  { "id": "g", "team": "pex", "chottodekiru": [ "php", "ruby" ] },
+  { "id": "h", "team": "fluct", "chottodekiru": [ "go", "ruby", "javascript" ] },
+  { "id": "i", "team": "fluct", "chottodekiru": [ "go", "ruby", "javascript" ] },
+  { "id": "j", "team": "fluct", "chottodekiru": [ "go", "ruby", "javascript" ] },
+  { "id": "k", "team": "fluct", "chottodekiru": [ "go", "erlang" ] },
+  { "id": "l", "team": "fluct", "chottodekiru": [ "go", "erlang" ] },
+  { "id": "m", "team": "fluct", "chottodekiru": [ "go", "erlang" ] },
+  { "id": "n", "team": "hrtech", "chottodekiru": [ "php", "javascript" ] },
+  { "id": "o", "team": "hrtech", "chottodekiru": [ "php", "javascript" ] },
+  { "id": "p", "team": "hrtech", "chottodekiru": [ "php", "javascript" ] },
+  { "id": "q", "team": "hrtech", "chottodekiru": [ "scala", "python", "ruby" ] },
+  { "id": "r", "team": "hrtech", "chottodekiru": [ "scala", "python", "ruby" ] },
+  { "id": "s", "team": "hrtech", "chottodekiru": [ "scala", "python", "ruby" ] }
+ ],
+ "recent_review_log": [
+  { "reviewee": "a", "reviewer": "c", "lang": "ruby" },
+  { "reviewee": "a", "reviewer": "h", "lang": "ruby" },
+  { "reviewee": "a", "reviewer": "r", "lang": "ruby" }
+ ],
+ "vacations": [
+  { "engineer_id": "b", "start_day": "2017-05-01", "end_day": "2017-05-02" },
+  { "engineer_id": "i", "start_day": "2017-05-01", "end_day": "2017-05-02" },
+  { "engineer_id": "j", "start_day": "2017-05-08", "end_day": "2017-05-12" }
+ ],
+ "holidays": [
+  "2017-01-01", "2017-01-02", "2017-01-03", "2017-01-09", "2017-02-11",
+  "2017-03-20", "2017-04-29", "2017-05-03", "2017-05-04", "2017-05-05",
+  "2017-07-17", "2017-08-11", "2017-09-18", "2017-09-23", "2017-10-09",
+  "2017-11-03", "2017-11-23", "2017-12-23", "2017-12-29"
+ ]
+}
